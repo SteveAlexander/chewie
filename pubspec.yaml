@@ -13,7 +13,7 @@ dependencies:
     git:
       url: https://github.com/flutter/plugins.git
       path: packages/video_player
-      ref: HEAD-100
+      ref: HEAD-200
 
   flutter:
     sdk: flutter
